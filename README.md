@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Vowkaz/Vowkaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align='center'> Hi there 👋, I'm Joao Garmier 👩‍💻 </h1>
+
+<p align='center'>
+  I live in Cuiabá, Brazil<b></b> 
+</p>
+
+<!--
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
+</p>-->
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/joao-lucas-garmier/"><img src="https://img.shields.io/badge/linkedin-20232A?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jlucasgarmier@gmail.com?subject=Olá%20joão"><img src="https://img.shields.io/badge/gmail-20232A?&style=for-the-badge&logo=gmail&logoColor=red" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
+<hr>
+
+<h4>🔭  I’m currently working with ...</h4>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/CSS3-20232A?&style=for-the-badge&logo=css3&logoColor=blue" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+</p>
+
+
+<hr>
+
+<h4>🌱  I'm currently learning...</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=purple">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js-20232A?&style=for-the-badge&logo=node.js&logoColor=green" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/vue.js-20232A?&style=for-the-badge&logo=vue.js&logoColor=green"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/laravel-20232A?&style=for-the-badge&logo=laravel&logoColor=red" 
+</p>
+
+<hr><!-- node.js%20-%23339933.svg %20-%23339933.svg -->
+
+<br>
+
+  <h5 align="right">🎮 To have fun and spend time...</h5>
+
+<div>
+  <a href="https://github.com/ManuCoutinho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vowkaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
