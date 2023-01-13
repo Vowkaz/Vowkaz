@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div align='center'>
   <a href="https://github.com/Vowkaz">
   <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api?username=Vowkaz&show_icons=true&theme=dracula&count_private=true"/>
-  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"
+  <img align='center' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vowkaz&layout=compact&theme=dracula"
 </div>
 <br>
   <h5 align="right">🎮 To have fun and spend time...</h5>
