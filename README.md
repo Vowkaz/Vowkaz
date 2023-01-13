@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 <br>
 <br>
   <h5 align="right">🎮 To have fun and spend time...</h5>
-<hr>
