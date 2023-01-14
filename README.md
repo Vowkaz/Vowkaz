@@ -1,7 +1,7 @@
 # Joao Lucas Garmier
 
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Lucas-20232A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-lucas-garmier/)](https://www.linkedin.com/in/joao-lucas-garmier/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaogarmier@fisica.ufmt.br-20232A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaogarmier@fisica.ufmt.br)](mailto:joaogarmier@fisica.ufmt.br)
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Lucas-20232A?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/joao-lucas-garmier/)](https://www.linkedin.com/in/joao-lucas-garmier/) 
+[![Gmail Badge](https://img.shields.io/badge/-joaogarmier@fisica.ufmt.br-20232A?style=flat-square&logo=Gmail&logoColor=orange&link=mailto:joaogarmier@fisica.ufmt.br)](mailto:joaogarmier@fisica.ufmt.br)
 
 Enthusiast of the software technologies.
 Passionate about programming.
