@@ -1,8 +1,7 @@
 # Joao Lucas Garmier
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@{user}-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/{user})](https://twitter.com/{user})  -->
-[![Linkedin Badge](https://img.shields.io/badge/-João%Lucas%20Garmier-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-lucas-garmier/)](https://www.linkedin.com/in/joao-lucas-garmier/) 
-[![Gmail Badge](https://img.shields.io/badge/-joaogarmier@fisica.ufmt.br-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaogarmier@fisica.ufmt.br)](mailto:joaogarmier@fisica.ufmt.br)
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Lucas-20232A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-lucas-garmier/)](https://www.linkedin.com/in/joao-lucas-garmier/) 
+[![Gmail Badge](https://img.shields.io/badge/-joaogarmier@fisica.ufmt.br-20232A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaogarmier@fisica.ufmt.br)](mailto:joaogarmier@fisica.ufmt.br)
 
 Enthusiast of the software technologies.
 Passionate about programming.
@@ -16,3 +15,4 @@ I’m currently working with
   <img src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=purple"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
+<p/>
